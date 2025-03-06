@@ -4,5 +4,3 @@ do{
     console.log(x);
     x++;
 }while(x < 11);
-
-console.log(`Fim de programa!`)
